@@ -1,0 +1,12 @@
+#real-alert:link{
+    color:red;
+    font-size:xx-large;
+    display:block;
+    padding:10px;
+    margin: 10px;
+}
+#test-only{
+    color:blue;
+    padding: 10px;
+    margin: 10px;
+}
